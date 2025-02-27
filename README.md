@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
-    <a href="https://twitter.com/your-twitter" target="blank">
+    <a href="https://linkedin.com/in/your-linkedin" target="blank">
         <img src="https://img.shields.io/twitter/follow/your-twitter?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
     </a> 
 </p>
@@ -86,12 +86,13 @@
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats:
 <p align="center">
-    <a href="https://github.com/101Sania/github-readme-streak-stats">
-        <img title="🔥 Streak Stats" alt="Most. Sonia Islam's streak" 
-             src="https://github-readme-streak-stats.herokuapp.com/?user=101Sania&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=101Sania&theme=highcontrast" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=101Sania&show_icons=true&theme=highcontrast" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=101Sania&theme=highcontrast" alt="GitHub Profile Summary"/>
 </p>
 
 ---
