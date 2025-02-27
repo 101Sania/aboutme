@@ -89,9 +89,9 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=101Sania&theme=highcontrast" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=101Sania&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=101Sania&show_icons=true&theme=highcontrast" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=101Sania&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=101Sania&theme=highcontrast" alt="GitHub Profile Summary"/>
 </p>
