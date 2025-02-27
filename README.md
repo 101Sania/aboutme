@@ -28,12 +28,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">                   
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">                   
 ##                                              :woman_technologist: About Me:  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">                   
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">           
 
 - 🌱 I’m currently studying **CSE Undergraduate at Bangladesh University of Business and Technology (BUBT).**  
 - 👯 I’m looking to collaborate on **projects related to Python, ML, DL & Neural Networks.**  
@@ -41,7 +37,7 @@
 - 📫 Reach me via email: **saniaislamsava@gmail.com**  
 - ⚡ Fun fact: **I think I am funny and a reliable person. Guess I can make you smile!**  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">                   
 
 ### 📫 Connect with me:
 <p align="left">
