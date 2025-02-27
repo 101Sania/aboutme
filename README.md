@@ -30,7 +30,10 @@
 
 ---
 
-## :woman_technologist: About Me:  
+##                                              :woman_technologist: About Me:  
+
+---
+
 - 🌱 I’m currently studying **CSE Undergraduate at Bangladesh University of Business and Technology (BUBT).**  
 - 👯 I’m looking to collaborate on **projects related to Python, ML, DL & Neural Networks.**  
 - 💬 Ask me about **C, C++, Python, ML, DL, NN, HTML, JavaScript.**  
