@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
-    <a href="https://linkedin.com/in/your-linkedin" target="blank">
+    <a href="https://linkedin.com/in/sania-islam-ba5195247" target="blank">
         <img src="https://img.shields.io/twitter/follow/your-twitter?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
     </a> 
 </p>
@@ -38,28 +38,27 @@
 
 ---
 
-## 🔗 Connect with Me  
+### 📫 Connect with me:
 <p align="left">
-    <a href="https://github.com/101Sania" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="101Sania" height="50" width="50" />
-    </a>
-    <a href="https://linkedin.com/in/your-linkedin" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
-    </a>
-    <a href="https://fb.com/your-facebook" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" />
-    </a>
-    <a href="https://instagram.com/your-instagram" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
-    </a>
-    <a href="https://codeforces.com/profile/your-codeforces" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="50" width="50" />
-    </a>
-    <a href="https://www.codechef.com/users/your-codechef" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="50" width="50" />
-    </a>
+  <a href="https://twitter.com/SaniaSava" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SaniaSava" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/sania-islam-ba5195247" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
+  </a>
+  <a href="https://fb.com/sania.islam.526438" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" />
+  </a>
+  <a href="https://instagram.com/sania.islam.526438" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
+  </a>
+  <a href="https://codeforces.com/profile/S-I" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="50" width="50" />
+  </a>
+  <a href="https://www.codechef.com/users/saniaislamsava" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="50" width="50" />
+  </a>
 </p>
-
 ---
 
 ## 🛠 Languages & Tools  
