@@ -15,7 +15,7 @@
 
 <div id="header" align="center">
   <a href="#" align="center">
-    <img width="30%" src="https://i.ibb.co/xJLctC6/1658919817149.png" align="center" height="30%"/>
+    <img width="30%" src="picture.jpg" align="center" height="30%"/>
   </a>
 </div>
 
