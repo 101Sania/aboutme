@@ -94,6 +94,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=101Sania&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=101Sania&theme=highcontrast" alt="GitHub Profile Summary"/>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=101Sania&theme=darkhub&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
 
 ---
