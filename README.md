@@ -21,6 +21,7 @@
 
 <div align="center">
 <h2>Hi <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e4764u2rz802v8hbkh1rm0mh764ox5vibuhem67l7jn&rid=giphy.gif&ct=s" height="50px" width="40px"/>, I'm Most. Sonia Islam<br>
+:woman_technologist:
  I'm an AI Enthusiast | Researcher 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -29,7 +30,7 @@
 
 ---
 
-## 👩‍💻 About Me  
+## :woman_technologist: About Me:  
 - 🌱 I’m currently studying **CSE Undergraduate at Bangladesh University of Business and Technology (BUBT).**  
 - 👯 I’m looking to collaborate on **projects related to Python, ML, DL & Neural Networks.**  
 - 💬 Ask me about **C, C++, Python, ML, DL, NN, HTML, JavaScript.**  
