@@ -7,7 +7,7 @@
 
 <p align="left"> 
     <a href="https://linkedin.com/in/sania-islam-ba5195247" target="blank">
-        <img src="https://img.shields.io/twitter/follow/your-twitter?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
+        <img src="https://img.shields.io/linkedin/follow/sania-islam-ba5195247?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
     </a> 
 </p>
 
