@@ -6,8 +6,8 @@
 </p>
 
 <p align="left"> 
-    <a href="https://linkedin.com/in/sania-islam-ba5195247" target="blank">
-        <img src="https://img.shields.io/linkedin/follow/sania-islam-ba5195247?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
+    <a href="https://linkedin.com/in/sania-islam-ba5195247" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
     </a> 
 </p>
 
@@ -59,6 +59,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="50" width="50" />
   </a>
 </p>
+
 ---
 
 ## 🛠 Languages & Tools  
