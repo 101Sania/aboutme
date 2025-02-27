@@ -15,7 +15,7 @@
 
 <div id="header" align="center">
     <a href="#" align="center">
-        <img width="30%" src="https://raw.githubusercontent.com/101Sania/aboutme/main/picture.jpg" align="center" height="30%"/>
+        <img width="30%" src="https://raw.githubusercontent.com/101Sania/aboutme/main/pic.jpeg" align="center" height="30%"/>
     </a>
 </div>
 
